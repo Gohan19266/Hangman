@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>ANDROID</item>
+        <item>COMPUTADORA</item>
+        <item>CELULAR</item>
+        <item>DEVELOPER</item>
+        <item>SISTEMAS</item>
+        <item>INGENIERIA</item>
+        <item>FIA</item>
+        <item>COVID</item>
+    </string-array>
+</resources>
